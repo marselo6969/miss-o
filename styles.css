@@ -1,0 +1,24 @@
+:root{
+    --cor-fundo:
+    --cor-principal:
+    --cor-secundária:
+    --cor-destaque:
+    --cor-texto: 
+}
+body{
+    background-attachment: var(--cor-fundo);
+    color: var(--cor-texto);
+
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100 ;
+}
+.caixa-principal{
+    background-color: ;
+}
+h1{
+    color: var(--cor-destaque)
+}
